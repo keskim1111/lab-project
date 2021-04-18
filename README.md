@@ -1,4 +1,4 @@
-### Preprocessing 
+### Preprocessing Dnase file
 Preprocessing of DNase-Seq datasets:
 Dataset	Assay	Link
 
@@ -24,5 +24,9 @@ Go over each target in targets file and query it using tabix:
     tabix wgEncodeOpenChromDnaseAdultcd4th1Pk.narrowPeak.gz chr1:713835-714424
 save results to new csv file with intersection results 
 
+### Preprocessing targets file
 
-
+### Narrow peak
+                    
+**chrom **|**chromStart **|**chromEnd **|**name **|**score **|**strand **|**upstream **|**protospacer **|**PAM **|**downstream **|**signal\_value\_dnase**
+:chr1:|:100:|:200:|:.:|:0:|:.:|:180:|:5.0945  :|:-1:|:50:|:-----:
