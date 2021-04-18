@@ -28,5 +28,5 @@ save results to new csv file with intersection results
 
 ### Narrow peak
                     
-**chrom **|**chromStart **|**chromEnd **|**name **|**score **|**strand **|**upstream **|**protospacer **|**PAM **|**downstream **|**signal\_value\_dnase**
-:chr1:|:100:|:200:|:.:|:0:|:.:|:180:|:5.0945  :|:-1:|:50:|:-----:
+**chrom **|**chromStart **|**chromEnd **|**name **|**score **|**strand **|**upstrea **|**protospacer **|**PAM **|**downstream **|**signal\_value\_dnase**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
