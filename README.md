@@ -30,3 +30,11 @@ save results to new csv file with intersection results
                     
 **chrom **|**chromStart **|**chromEnd **|**name **|**score **|**strand **|**upstrea **|**protospacer **|**PAM **|**downstream **|**signal\_value\_dnase**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+
+
+**Dataset**|**Assay**|**Link**
+:-----:|:-----:|:-----:
+HEK293T DNA accessibility|DNase-Seq|ENCFF774HUB.bam
+U2OS DNA accessibility|DNase-Seq|SRR4413990.fastq
+
+## calculate intercection
